@@ -2,6 +2,8 @@
 
 **Prepared By : Jay Patel**
 
+_You can also find the same code in the Jupyter Notebook attached._
+
 ![Page 1](images/readme/0001.jpg)
 ![Page 2](images/readme/0002.jpg)
 ![Page 3](images/readme/0003.jpg)
